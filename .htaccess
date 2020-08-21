@@ -1,0 +1,2 @@
+ErrorDocument 404 http://localhost/projetwebintegre/dead/notfound.php
+ErrorDocument 500 http://localhost/projetwebintegre/dead/notfound.php
